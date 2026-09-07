@@ -89,7 +89,7 @@ The dashboard helps answer questions such as:
 
 ### Page 1 — E-Commerce Pulse
 
-![Page 1 Dashboard]()
+![Page 1 Dashboard](Screenshot 2026-09-07 220709.png)
 
 ### Page 2 — Customer & Order Insights
 
