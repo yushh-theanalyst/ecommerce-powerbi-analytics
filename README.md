@@ -85,5 +85,14 @@ The dashboard helps answer questions such as:
 - Which departments are major revenue contributors?
 - How does purchase frequency relate to customer monetary value?
 
+## Dashboard Preview
 
-Data Analytics | Power BI | Data Visualization
+### Page 1 — E-Commerce Pulse
+
+![Page 1 Dashboard]()
+
+### Page 2 — Customer & Order Insights
+
+![Page 2 Dashboard]()
+
+## Project Files
